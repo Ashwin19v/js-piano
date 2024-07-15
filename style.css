@@ -72,11 +72,9 @@ li {
 } */
 @media (max-width: 800px) {
   .outline {
-    width: 620px;
+    
     margin: 150px 100px;
     transform: rotate(90deg);
   }
-  .piano {
-    width: 620px;
-  }
+  
 }
