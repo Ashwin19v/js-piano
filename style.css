@@ -70,3 +70,13 @@ li {
   background-color: rgb(78, 72, 72);
   box-shadow: inset -5px 5px 20px rgba(0, 0, 0, 0.2);
 } */
+@media (max-width: 800px) {
+  .outline {
+    width: 620px;
+    margin: 150px 100px;
+    transform: rotate(90deg);
+  }
+  .piano {
+    width: 620px;
+  }
+}
